@@ -8,7 +8,7 @@
 
 BEGIN { $| = 1; print "1..6\n"; }
 END {print "not ok 1\n" unless $loaded;}
-use TK::CheckbuttonGroup;
+use Tk::CheckbuttonGroup;
 $loaded = 1;
 print "ok 1\n";
 
