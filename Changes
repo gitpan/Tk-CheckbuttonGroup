@@ -6,4 +6,6 @@ Revision history for Perl extension TK::CheckbuttonGroup.
 0.2.1  Mon Aug 19 17:52:00 2002
 	- fix to test.pl script
 
+0.2.2  Fri Oct 11 18:23:00 2002
+	- fix to test.pl script to allow CPAN automated testing
 

@@ -1,5 +1,5 @@
 # CheckbuttonGroup.pl
-# Version: 0.2
+# Version: 0.2.2
 #
 # By: Joseph Annino - jannino@jannino.com - http://www.jannino.com
 # Copyright 2002 American Museum of Natural History
@@ -20,7 +20,7 @@
 #    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
 
-$Tk::CheckbuttonGroup::VERSION = '0.2.1';
+$Tk::CheckbuttonGroup::VERSION = '0.2.2';
 package Tk::CheckbuttonGroup;
 
 use Tk::widgets qw( Frame Checkbutton );
